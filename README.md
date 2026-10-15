@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Binh</h1>
-<h3 align="center">Road to fullstack developer</h3>
 
 - 🌱 I’m currently learning **everythings**
 
